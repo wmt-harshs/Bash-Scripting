@@ -2,3 +2,4 @@
 2. Learning JQquery
 3. PHP Programming
 4. CodeIgniter 3
+5. Learning Laravel 5
